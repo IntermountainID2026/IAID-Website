@@ -20,8 +20,6 @@
       <stop offset="100%" stop-color="#48bb78" />
     </linearGradient>
   </defs>
-  <rect width="100%" height="100%" fill="#ffffff"/>
-  <rect width="100%" height="100%" fill="url(#grid)"/>
   <g transform="translate(15, 0)">
     <path d="M 90 90 L 140 90 L 115 135 L 65 135 Z" fill="url(#topWingGrad)" />
     <path d="M 140 90 L 165 135 L 115 135 Z" fill="#152848" opacity="0.3" />
